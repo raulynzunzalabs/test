@@ -1,0 +1,23 @@
+Pull Request Template:
+Title:
+[[ pull request type ]] : [[ CU-<ticketnumber>]] : [[ change made ]]
+
+Body:
+# Fixes ticket [#<ticketnumber>](https://app.clickup.com/t/<ticketnumber>)
+
+## Problem Description
+Brief description of the problem being addressed.
+
+## Checklist 
+- [ ] Passes eslint linter 
+- [ ] Passes backend integration tests 
+- [ ] Added tests for this change 
+- [ ] Added documentation for this change 
+- [ ] Removed unused packages  
+
+## Changes proposed in this pull request
+Details of the changes that have been made.
+
+## Reviewers
+- @
+- @
